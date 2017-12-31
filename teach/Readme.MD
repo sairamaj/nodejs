@@ -1,0 +1,2 @@
+## resources
+[tutorial](https://www.tutorialspoint.com/nodejs/nodejs_tutorial.pdf)
